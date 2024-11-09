@@ -14,3 +14,4 @@ Computers can represent numbers using binary code in the form of digital 1s and 
 - Binary => base 2 (0 , 1)
 - octal => base 8 (0 , 1 , 2 , 3, 4 , 5 , 6 , 7)
 - Decimal => base 10 (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+- hexadecimal => base 16 (0-9, A,B,C,D,E,F)
