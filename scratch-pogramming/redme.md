@@ -45,3 +45,7 @@ For example, to convert 536 from octal to hexadecimal, you can:
 - Calculate the value of each set from left to right: (15E)16
 
 The hexadecimal value for 536 is 15E.
+
+## What is unary
+
+A unary operation is a mathematical operator that has only one operand, or input. This is in contrast to binary operations, which use two operands. Examples of unary operations include negation, incrementing, decrementing, and complementing.
