@@ -61,3 +61,4 @@ A bit is represented as either 0 or 1, and is the most basic unit of information
 ### Bytes
 
 A byte can represent a number, a letter, a symbol, or a small amount of data. The standard number of bits in a byte is eight, but this can vary depending on the hardware and system.
+=> 8 byte one group collection
