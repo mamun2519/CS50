@@ -53,3 +53,11 @@ A unary operation is a mathematical operator that has only one operand, or input
 ## what is bit and byte
 
 A bit is the smallest unit of digital information, while a byte is a larger unit of digital information made up of eight bits.
+
+### Bits
+
+A bit is represented as either 0 or 1, and is the most basic unit of information in computing and digital communication. Computers process information and send and receive data as bits.
+
+### Bytes
+
+A byte can represent a number, a letter, a symbol, or a small amount of data. The standard number of bits in a byte is eight, but this can vary depending on the hardware and system.
