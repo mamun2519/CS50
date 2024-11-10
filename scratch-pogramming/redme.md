@@ -27,3 +27,21 @@ To convert a decimal number to binary, you can use the following steps:
 - Repeat steps 1 and 2 with the quotient from the previous division until the quotient is 0.
 
 - Read the remainders in reverse order to get the binary representation.
+
+## octal to hexadecimal
+
+To convert an octal number to hexadecimal, you can:
+
+- Convert the octal number to binary
+
+- Group the binary bits into sets of four
+
+- Calculate the value of each set from left to right
+
+For example, to convert 536 from octal to hexadecimal, you can:
+
+- Convert 536 to binary: (536){8} = (101) (011) (110) = (101011110){2}
+- Group the binary bits into sets of four: (101011110)2=(0001)(0101)(1110)
+- Calculate the value of each set from left to right: (15E)16
+
+The hexadecimal value for 536 is 15E.
