@@ -49,3 +49,7 @@ The hexadecimal value for 536 is 15E.
 ## What is unary
 
 A unary operation is a mathematical operator that has only one operand, or input. This is in contrast to binary operations, which use two operands. Examples of unary operations include negation, incrementing, decrementing, and complementing.
+
+## what is bit and byte
+
+A bit is the smallest unit of digital information, while a byte is a larger unit of digital information made up of eight bits.
