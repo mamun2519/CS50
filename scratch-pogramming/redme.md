@@ -62,3 +62,7 @@ A bit is represented as either 0 or 1, and is the most basic unit of information
 
 A byte can represent a number, a letter, a symbol, or a small amount of data. The standard number of bits in a byte is eight, but this can vary depending on the hardware and system.
 => 8 byte one group collection
+
+## what is unicode
+
+Unicode is a standard that assigns a unique numeric value to every character, regardless of the language, platform, or program. It is a universal character set that includes characters from almost all of the world's living languages, as well as mathematical symbols and emojis
