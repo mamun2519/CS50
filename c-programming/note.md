@@ -1,3 +1,3 @@
-messing code ⇒ 0000001
+machine code ⇒ 0000001
 
-source code ⇒ compiler ⇒ messine code
+source code ⇒ compiler ⇒ machine code
