@@ -12,3 +12,5 @@ int main(void)
       printf("hello, world");
 }
 ```
+
+note: #include <stdio.h> this call header code
