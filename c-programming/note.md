@@ -1,16 +1,13 @@
-machine code ⇒ 0000001
-
-source code ⇒ compiler ⇒ machine code
-
-### First C programming code
+## Functions
 
 ```jsx
 #include <stdio.h>
 
 int main(void)
 {
-      printf("hello, world");
+    printf("hello, world\n")
 }
 ```
 
-note: #include <stdio.h> this call header file
+- Notice also the special symbol \n in your code. Try removing those characters and making your program again by executing make hello. Typing ./hello in the terminal window, how did your program change? This \ character is called an escape character that tells the compiler that \n is a special instruction.
+  note: #include <stdio.h> this call header file
