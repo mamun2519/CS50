@@ -13,4 +13,4 @@ int main(void)
 }
 ```
 
-note: #include <stdio.h> this call header code
+note: #include <stdio.h> this call header file
