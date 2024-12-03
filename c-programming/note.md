@@ -101,3 +101,7 @@ int add(int a, int b)
 - mv, for moving (renaming) files and directories
 - rm, for removing (deleting) files
 - rmdir, for removing (deleting) directories
+
+### Learning concept
+
+- RAM (Computer Memory work)
