@@ -89,3 +89,8 @@ int add(int a, int b)
 }
 
 ```
+
+## Linux and the Command Line
+
+- Linux is an operating system that is accessible via the command line in the terminal window in VS Code.
+- Some common command-line arguments we may use include: - cd, for changing our current directory (folder) - cp, for copying files and directories
