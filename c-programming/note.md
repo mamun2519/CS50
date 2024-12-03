@@ -26,3 +26,22 @@ int main(void)
 ```
 
 - %s is a placeholder called a format code that tells the printf function to prepare to receive a string. answer is the string being passed to %s.
+
+## Conditionals
+
+```jsx
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    int x = get_int("What's x? ");
+    int y = get_int("What's y? ");
+
+    if (x < y)
+    {
+        printf("x is less than y\n");
+    }
+}
+
+```
