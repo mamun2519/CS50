@@ -2,6 +2,8 @@
 
 #include <stdio.h>
 
-int main (){
-      pr
+int main()
+{
+      printf("hello world/");
+      return 0;
 }
