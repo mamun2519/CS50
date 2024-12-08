@@ -13,7 +13,7 @@ int main()
       printf("This is result %d\n", result);
 
       // cher
-      char myName = "Mohammad Mamun";
-      printf("Hi there\n. My Name Is %c", myName);
+      char myLetter = 'D';
+      printf("Hi there\n. My Name Is %c", myLetter);
       return 0;
 }
