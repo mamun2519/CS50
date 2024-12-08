@@ -5,6 +5,7 @@
 
 int main()
 {
-      printf("Hello I am learning c\n. Its very joss");
+      int myNum = 15;
+      printf("d%", myNum);
       return 0;
 }
